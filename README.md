@@ -1,0 +1,1 @@
+This is a simple project to demonstrate calling of API using async and promises, it uses a free currency convertor API from the web.
